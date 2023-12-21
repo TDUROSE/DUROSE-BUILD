@@ -49,13 +49,9 @@ body { background-color:#FFFFFF; padding:0;  margin: 0; }
 #container_385cb94e { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:110px; max-width:1590px; background-color:#000936;  }
 #container_2aa5a736 { vertical-align: top; position:relative; display: inline-block; width:80%; min-height:53px; background:none;  }
 #container_2aa5a736_padding { margin: 10px; display: block;  }
-#img_798910f0 { box-sizing: border-box; vertical-align: top; border-radius: 360px; position:relative; display: inline-block; margin:0px 0px 0px 15px;width:10%; min-width:45px; max-width:60px; background:none; border: 1px solid #FFFFFF; height:auto;  }
-#container_3b77e554 { vertical-align: top; position:relative; display: inline-block; width:1%; min-height:24px; background:none;  }
-#container_3b77e554_padding { margin: 10px; display: block;  }
-#img_365f079f { box-sizing: border-box; vertical-align: top; border-radius: 360px; position:relative; display: inline-block; width:10%; min-width:45px; max-width:60px; background:none; border: 1px solid #FFFFFF; height:auto;  }
-#container_169edec1 { vertical-align: top; position:relative; display: inline-block; width:1%; min-height:24px; background:none;  }
-#container_169edec1_padding { margin: 10px; display: block;  }
-#img_382cbccc { box-sizing: border-box; vertical-align: top; border-radius: 360px; position:relative; display: inline-block; width:10%; min-width:45px; max-width:60px; background:none; border: 1px solid #FFFFFF; height:auto;  }
+#img_798910f0 { box-sizing: border-box; vertical-align: top; border-radius: 360px; position:relative; display: inline-block; width:10%; min-width:60px; max-width:60px; background:none; border: 1px solid #FFFFFF; height:auto;  }
+#img_365f079f { box-sizing: border-box; vertical-align: top; border-radius: 360px; position:relative; display: inline-block; margin:0px 0px 0px 3px;width:10%; min-width:60px; max-width:60px; background:none; border: 1px solid #FFFFFF; height:auto;  }
+#img_382cbccc { box-sizing: border-box; vertical-align: top; border-radius: 360px; position:relative; display: inline-block; margin:0px 0px 0px 3px;width:10%; min-width:60px; max-width:60px; background:none; border: 1px solid #FFFFFF; height:auto;  }
 @media only screen and (max-width: 900px)
 {
 		#menu_2a63c6c8 { width:150px;  }
