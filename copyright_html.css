@@ -1,0 +1,18 @@
+a { color:#5D5D9E; } 
+a:visited { color:#5D5D9E; } 
+a:active { color:#5C615E; } 
+a:hover { color:#B2B3B4; } 
+#button_7635e4ac { box-sizing: border-box; vertical-align: bottom; border-radius: 5px; position:relative; display: inline-block; margin:5px 0px 0px 0px;width:164px; height:34px; background-color:#000936; border: 2px solid #FFFFFF;  }
+#button_7635e4ac:hover { background-color:#0A0D1E; border-color:#FFFFFF;  }
+#button_7635e4ac:hover span { color:#FFFFFF; }
+body { background-color:#FFFFFF; padding:0;  margin: 0; }
+.textstyle1 { text-align:left; }
+#container_79dff3b4 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:76px; background:none;  }
+#container_79dff3b4_padding { margin: 10px; display: block;  }
+.textstyle2 { text-align:center; }
+.textstyle3 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000;  }
+.textstyle4 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000; font-weight:bold;  }
+.textstyle5 { font-size:12pt; font-family:Arial, Helvetica, sans-serif; color:#000000; font-weight:bold; text-decoration:underline;  }
+.vcenterstyle1 { display: table; width: 100%; height: 100%; }
+.vcenterstyle2 { display: table-cell; vertical-align: middle; }
+.textstyle6 { font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF; font-weight:bold;  }
