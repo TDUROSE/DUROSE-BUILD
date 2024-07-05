@@ -1,0 +1,27 @@
+a { color:#00AFCE; } 
+a:visited { color:#00AFCE; } 
+a:active { color:#5C615E; } 
+a:hover { color:#FFFFFF; } 
+		a.wsp6e9e2c54{ color:#A01FCB; text-decoration: underline} 
+		a.wsp6e9e2c54:visited{ color:#800080; text-decoration: underline} 
+		a.wsp6e9e2c54:active{ color:#8018CB; text-decoration: underline} 
+		a.wsp6e9e2c54:hover{ color:#E3B4F3; text-decoration: underline} 
+#img_105956d6:hover { filter: brightness( 80%);  } 
+body { background-color:#FF8000; padding:0;  margin: 0; }
+.textstyle1 { text-align:left; }
+#container_6598e7fb { box-sizing: border-box; vertical-align: top; position:relative; display: inline-block; width:100%; min-height:51px; background-color:#000936; border-top: none; border-left: none; border-right: none; border-bottom: none;  }
+#container_3564bc16 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:70px; background:none;  }
+#container_3564bc16_padding { margin: 10px; display: block;  }
+.textstyle2 { text-align:center; }
+#img_105956d6 { vertical-align: bottom; position:relative; display: inline-block; margin:3px 0px 0px 0px;width:21%; min-width:170px; max-width:200px; background:none; height:auto;  }
+#container_1809c9fc { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:221px; background-color:#FF8000;  }
+#container_1809c9fc_padding { margin: 10px; display: block;  }
+#img_741b1441 { vertical-align: bottom; position:relative; display: inline-block; width:54%; min-width:150px; max-width:200px; background:none; height:auto;  }
+#iframe_274cbdb6 { box-sizing: border-box; vertical-align: bottom; position:relative; display: inline-block; width:70%; height:1053px; background:none; border: 1px solid #A0A0A0;  }
+#container_768882c7 { vertical-align: top; position:relative; display: inline-block; width:100%; min-height:35px; background:none;  }
+#container_768882c7_padding { margin: 10px; display: block;  }
+.textstyle3 { font-size:12pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FFFFFF;  }
+#button_238231e9 { vertical-align: bottom; border-radius: 5px; position:relative; display: inline-block; width:348px; height:108px; min-width:200px; max-width:600px; background-color:#FFFFFF;  }
+.vcenterstyle1 { display: table; width: 100%; height: 100%; }
+.vcenterstyle2 { display: table-cell; vertical-align: middle; }
+.textstyle4 { font-size:18pt; font-family:Segoe, 'Segoe UI', 'Helvetica Neue', sans-serif; color:#FF8000; font-weight:bold;  }
